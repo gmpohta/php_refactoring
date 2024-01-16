@@ -1,0 +1,5 @@
+parameters:
+    level: 8
+    paths:
+        - src/Refactor
+    tmpDir: ./var/phpstan
