@@ -1,4 +1,4 @@
-Example to refactoring to php 8.1 code.
+Example to refactoring code to php 8.1.
 
 Install requirements:
 ```
